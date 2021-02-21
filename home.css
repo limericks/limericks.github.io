@@ -1,0 +1,29 @@
+.topRow{
+    background-color: aliceblue;
+    text-align: center;
+    height: 10%;
+}
+
+.navBar{
+    background-color: antiquewhite;
+    height: 10%;   
+    text-align: center; 
+}
+
+.navBar > div{
+    border: 2px solid black;
+}
+
+.homeContent{
+    padding-top: 2em;
+    font-family:'Courier New', Courier, monospace;
+    background-color: aliceblue;
+}
+
+.introSpan{
+    font-weight: bold;
+}
+
+.bottomRow{
+    text-align: right;
+}
